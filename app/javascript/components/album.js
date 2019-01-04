@@ -213,7 +213,7 @@ function Album(props) {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="/assets/Rails+Stripe.jpg"
+                    image="/assets/rails_stripe.jpg"
                     title="Image title"
                   />
                   <CardContent className={classes.cardContent}>
