@@ -140,7 +140,7 @@ function Album(props) {
                     </Typography>
                   </CardContent>
                   <CardActions>
-                    <Button href="https://flux-react-rails.herokuapp.com//">
+                    <Button variant="contained" href="https://flux-react-rails.herokuapp.com//">
                         Website
                   </Button> 
                    <Button variant="contained" default="inherit" href="https://github.com/rajulonline/flux-react">
@@ -169,7 +169,7 @@ function Album(props) {
                     </Typography>
                   </CardContent>
                   <CardActions>
-                    <Button href="https://homesub.herokuapp.com/">
+                    <Button variant="contained" href="https://homesub.herokuapp.com/">
                         Website
                   </Button>  
                    <Button variant="contained" default="inherit" href="https://github.com/rajulonline/rails_slim_elasticsearch_materialize_ui">
@@ -226,7 +226,7 @@ function Album(props) {
                     </Typography>
                   </CardContent>
                   <CardActions>
-                    <Button href="https://online-store-stripe-rails.herokuapp.com/">
+                    <Button variant="contained" href="https://online-store-stripe-rails.herokuapp.com/">
                         Website
                   </Button> 
                    <Button variant="contained" default="inherit" href="https://github.com/rajulonline?tab=repositories">
