@@ -125,7 +125,7 @@ function Album(props) {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="/assets/rails_react_flux.png" // eslint-disable-line max-len
+                    image="/assets/react_flux_rails.png" // eslint-disable-line max-len
                     title="Image title"
                   />
                   <CardContent className={classes.cardContent}>
@@ -155,7 +155,7 @@ function Album(props) {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="/assets/ElasticSearch.jpeg"
+                    image="/assets/elastic.jpeg"
                     title="Image title"
                   />
                   <CardContent className={classes.cardContent}>
@@ -184,7 +184,7 @@ function Album(props) {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image="/assets/A_Simple_React_App.jpg" // eslint-disable-line max-len
+                    image="/assets/react.png" // eslint-disable-line max-len
                     title="Image title"
                   />
                   <CardContent className={classes.cardContent}>
