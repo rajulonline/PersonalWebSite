@@ -236,6 +236,36 @@ function Album(props) {
                 </Card>
               </Grid>
 
+            {/* This is the fifth project*/}
+
+                          <Grid item sm={6} md={4} lg={3}>
+                <Card className={classes.card}>
+                  <CardMedia
+                    className={classes.cardMedia}
+                    image="/assets/react_flux_rails.png"
+                    title="Image title"
+                  />
+                  <CardContent className={classes.cardContent}>
+                    <Typography gutterBottom variant="h5" component="h2">
+                      Rails+React+Flux
+                      +Materializecss
+                      -Part of Pluralsight course                      
+                    </Typography>
+                    <Typography>
+                      Learnt a lot from this course on how to integrate React into Rails. Also understood the basics of flux from this course.                      
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    <Button variant="contained" href="https://twitter-clone-ps-study.herokuapp.com/">
+                        Website
+                  </Button> 
+                   <Button variant="contained" default="inherit" href="https://github.com/rajulonline/twitter-rails-react-flux-webpack">
+                        Git-Repo Link
+                  </Button>   
+                  </CardActions>
+                </Card>
+              </Grid>
+
 
 
            
