@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 
 
 class User extends React.Component {
+debugger;	
 	render(){
 		return(
 			<div>
-				<h1>{this.props.login}</h1>
+				<h1>{this.props.name}</h1>
 			</div>
 			)
 	}
