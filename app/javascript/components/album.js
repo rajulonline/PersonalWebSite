@@ -249,7 +249,7 @@ function Album(props) {
             </Typography>
         <Typography variant="h6" align="center" gutterBottom>
           <Typography variant="h6" align="center" color="textSecondary" paragraph>
-              Advanced Technology and software written to solve complex problems is magic. A good software engineer is a like a 
+              Advanced Technology and software written to solve complex problems is magic. A good software engineer is like a 
               magician.
               Internet has given us access to a wealth of information we never had like 20years ago. 
               With so many well written books, blog posts, MOOCs, study groups etc. the playing field is level like never before.
