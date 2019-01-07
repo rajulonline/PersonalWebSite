@@ -112,7 +112,7 @@ function Album(props) {
             Checkout some of my work that i did to understand the tech.<br/>            
         </Typography>
         <Typography variant="subtitle1" align="center" color="textPrimary" paragraph>
-            (They might be little slow to load because i am using heroku free tier)
+            (They might be little slow to load because i am using heroku hobby tier)
             </Typography>
         <div className={classNames(classes.layout, classes.cardGrid)}>
           {/* End hero unit */}
